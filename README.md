@@ -4,5 +4,5 @@ This repository contains the private tuition classes materials.
 
 ## Students
 
-- [Zack](./zack/courses.md)
+- [Zac](./zac/courses.md)
 - [Weber](./weber/courses.md)
